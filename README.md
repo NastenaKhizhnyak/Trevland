@@ -1,5 +1,5 @@
 # Trevland
-&HTML
+*HTML
 CSS
 JS
 JQuery
