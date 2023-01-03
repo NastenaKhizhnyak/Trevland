@@ -1,5 +1,5 @@
 # Trevland
-# HTML
-# CSS
-# JS
-# JQuery
+HTML
+CSS
+JS
+JQuery
